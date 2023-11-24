@@ -1,0 +1,33 @@
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\appsettings.Development.json
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\appsettings.json
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\ASP.NET Core Web API.exe
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\ASP.NET Core Web API.deps.json
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\ASP.NET Core Web API.runtimeconfig.json
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\ASP.NET Core Web API.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\ASP.NET Core Web API.pdb
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\ASP.NET Core Web API.csproj.AssemblyReference.cache
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\ASP.NET Core Web API.GeneratedMSBuildEditorConfig.editorconfig
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\ASP.NET Core Web API.AssemblyInfoInputs.cache
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\ASP.NET Core Web API.AssemblyInfo.cs
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\ASP.NET Core Web API.csproj.CoreCompileInputs.cache
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\ASP.NET Core Web API.MvcApplicationPartsAssemblyInfo.cs
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\ASP.NET Core Web API.MvcApplicationPartsAssemblyInfo.cache
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\staticwebassets.build.json
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\staticwebassets.development.json
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\staticwebassets\msbuild.ASP.NET Core Web API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\staticwebassets\msbuild.build.ASP.NET Core Web API.props
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Core Web API.props
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ASP.NET Core Web API.props
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\scopedcss\bundle\ASP.NET Core Web API.styles.css
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\ASP.NET Core Web API.csproj.CopyComplete
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\ASP.NET Core Web API.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\refint\ASP.NET Core Web API.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\ASP.NET Core Web API.pdb
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\ASP.NET Core Web API.genruntimeconfig.cache
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\ref\ASP.NET Core Web API.dll

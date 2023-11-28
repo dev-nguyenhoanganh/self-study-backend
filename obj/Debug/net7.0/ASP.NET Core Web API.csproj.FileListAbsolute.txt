@@ -31,3 +31,24 @@ D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\
 D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\ASP.NET Core Web API.pdb
 D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\ASP.NET Core Web API.genruntimeconfig.cache
 D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\ref\ASP.NET Core Web API.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\obj\Debug\net7.0\ASP.NET Core Web API.sourcelink.json
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\Oracle.ManagedDataAccess.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\System.DirectoryServices.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\System.DirectoryServices.Protocols.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\05_BB_TIS\Training C#\visual-studio-workspace\ASP.NET Core Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

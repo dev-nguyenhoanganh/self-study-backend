@@ -1,4 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
+using ASP.NET_Core_Web_API.Infrastructure.Data;
+
 
 namespace ASP.NET_Core_Web_API.Controllers
 {
@@ -21,6 +23,9 @@ namespace ASP.NET_Core_Web_API.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
+
+            DBOracleUtils.ConnectToDatabase();
+
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
